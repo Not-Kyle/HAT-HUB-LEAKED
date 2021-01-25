@@ -3,13 +3,12 @@
 enabled = true
 --if true will check your messages too
 spyOnMyself = false     --why would u set this true
--- if true it will show your messages too (dont set it to true or else youre retarded)
-public = false
+-- if true it will show your messages too
 --(set to true if you want messeges public)
 publicItalics = true
 --customize private logs
 privateProperties = {
-	Color = Color3.fromRGB(255,0,0); --(Color logger no shit)
+	Color = Color3.fromRGB(255,0,0); --
 	Font = Enum.Font.SourceSansBold;
 	TextSize = 18;
 -- (Change to 16-24) (18 is default)
